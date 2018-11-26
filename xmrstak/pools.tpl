@@ -24,11 +24,13 @@ POOLCONF],
  *    aeon7 (use this for Aeon's new PoW)
  *    bbscoin (automatic switch with block version 3 to cryptonight_v7)
  *    bittube (uses cryptonight_bittube2 algorithm)
+ *    electronero - hard fork of Electroneum
  *    graft
  *    haven (automatic switch with block version 3 to cryptonight_haven)
  *    intense
  *    masari
  *    monero (use this to support Monero's Oct 2018 fork)
+ *    pulse - hard fork of Electronero
  *    qrl - Quantum Resistant Ledger
  *    ryo
  *    turtlecoin
