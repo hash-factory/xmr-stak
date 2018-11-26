@@ -41,10 +41,12 @@ Besides [Monero](https://getmonero.org), following coins can be mined using this
 - [Aeon](http://www.aeon.cash)
 - [BBSCoin](https://www.bbscoin.xyz)
 - [BitTube](https://coin.bit.tube/)
+- [Electronero](https://electronero.org/)
 - [Graft](https://www.graft.network)
 - [Haven](https://havenprotocol.com)
 - [Intense](https://intensecoin.com)
 - [Masari](https://getmasari.org)
+- [Pulse](https://electroneropulse.org)
 - [QRL](https://theqrl.org)
 - **[Ryo](https://ryo-currency.com) - Upcoming xmr-stak-gui is sponsored by Ryo**
 - [TurtleCoin](https://turtlecoin.lol)
